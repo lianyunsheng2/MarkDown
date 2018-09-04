@@ -6,6 +6,7 @@
 
 
 
+
 ## 引用演示
 >Hello World<br/>
 >Hello Laolian<br/>
@@ -30,6 +31,10 @@ console.log(c);
 [百度](http://www.baidu.com)
 ### 引用式
 [百度]
+## 插入图片链接
+![百度logo](https://www.baidu.com/img/bd_logo1.png?where=super)
+### 引用式插入图片
+![百度logo][百度logo]
 
 
 
@@ -37,5 +42,6 @@ console.log(c);
 
 <!--下面是引用-->
 [百度]:http://www.baidu.com
+[百度loge]:https://www.baidu.com/img/bd_logo1.png?where=super "百度logo"
 
   
